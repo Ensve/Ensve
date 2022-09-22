@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Endre</h1>
 <h3 align="center">A passionate student frontend developer from Norway</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React and Kotlin**
 
 - 📫 How to reach me **lsbooking@hotmail.com**
 
