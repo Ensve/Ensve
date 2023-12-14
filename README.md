@@ -67,6 +67,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<div align="center">
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)](https://github.com/ensve/)
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ensve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
