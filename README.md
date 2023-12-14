@@ -68,6 +68,10 @@
 
 ###
 
+<div aling="center">
+  <img src"https://github-readme-stats.vercel.app/api?username=ensve&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ensve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
