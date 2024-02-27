@@ -68,15 +68,17 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensve)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensve&layout=compact)
 
 ###
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ensve" height="220" alt="stats graph"  />
-</div>
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensve&show_icons=true&theme=transparent)
+
+###
 
 ### 
 
