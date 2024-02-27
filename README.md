@@ -70,9 +70,6 @@
 
 <img alt="" src="https://github.com/Ensve/Ensve/assets/89137468/430d6497-4604-499c-8688-10d2be5bf0ed)"/>
 
-<img alt="" src="https://github.com/Ensve/Ensve/assets/89137468/bd11aaf2-70df-4894-90ea-f74403a4018b"/>
-
-
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensve&show_icons=true&theme=transparent)
