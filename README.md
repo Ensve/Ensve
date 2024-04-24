@@ -62,34 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img alt="" src="https://github.com/Ensve/Ensve/assets/89137468/430d6497-4604-499c-8688-10d2be5bf0ed)"/>
-
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensve&show_icons=true&theme=transparent)
-
-###
-
-### 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/shieldsio-github-top-skills@latest/dist/top-skills.svg?username=ensve
-"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ensve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 
 
