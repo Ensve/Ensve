@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a frontend / fullstack developer from Norway<br><br>- 📚 I'm currently learning Svelte<br>- 📫 How to reach me: endre.g.svendsen@gmail.com</p>
+<p align="left">I'm a frontend / fullstack developer from Norway<br><br> 📫 How to reach me: endre.g.svendsen@gmail.com</p>
 
 ###
 
